@@ -1,0 +1,17 @@
+2025-02-27 07:29:06.851 [info] 
+
+
+
+
+2025-02-27 07:29:06.869 [info] Extension host agent started.
+2025-02-27 07:29:07.082 [info] [127.0.0.1][79934efb][ManagementConnection] New connection established.
+2025-02-27 07:29:07.489 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] New connection established.
+2025-02-27 07:29:07.500 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] <2519> Launched Extension Host Process.
+2025-02-27 07:29:28.829 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] <2519> [0mGET /favicon.ico [33m404[0m 1.460 ms - 150[0m
+
+2025-02-27 11:59:58.106 [info] [127.0.0.1][79934efb][ManagementConnection] The client has reconnected.
+2025-02-27 11:59:58.260 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] The client has reconnected.
+2025-02-27 15:07:39.675 [info] [127.0.0.1][79934efb][ManagementConnection] The client has reconnected.
+2025-02-27 15:07:39.890 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] The client has reconnected.
+2025-02-27 19:56:23.921 [info] [127.0.0.1][79934efb][ManagementConnection] The client has reconnected.
+2025-02-27 19:56:34.994 [info] [127.0.0.1][6a98470b][ExtensionHostConnection] The client has reconnected.
